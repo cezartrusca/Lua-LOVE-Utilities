@@ -1,1 +1,0 @@
-A utility designed to write the LOVE library fields to a file to create dummy functions

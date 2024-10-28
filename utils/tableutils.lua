@@ -9,7 +9,7 @@ function ArrayRemove(t, fnKeep)
 					t[i] = nil
 			end
 			j = j + 1; -- Increment position of where we'll place the next kept value.
-		
+
 		else
 			t[i] = nil
 		end
