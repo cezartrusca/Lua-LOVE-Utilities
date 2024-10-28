@@ -1,6 +1,6 @@
 # Lua Utilities
 
-![image](lua-utils.png)
+![image](logo.png)
 
 ## Description
 A set of scripts for helper libraries whose goal is to aid in programming and debugging with Lua and the LÖVE framework, primarily for video game development.
